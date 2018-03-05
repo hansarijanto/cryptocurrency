@@ -1,0 +1,23 @@
+{
+  "name": "cryptocurrency",
+  "version": "1.0.0",
+  "description": "Crypto Currency Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansarijanto/cryptocurrency.git"
+  },
+  "author": "Hans Arijanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansarijanto/cryptocurrency/issues"
+  },
+  "homepage": "https://github.com/hansarijanto/cryptocurrency#readme",
+  "dependencies": {
+    "@types/mongodb": "^3.0.5",
+    "mongodb": "^3.0.3"
+  }
+}
